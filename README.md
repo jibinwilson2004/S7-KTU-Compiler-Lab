@@ -7,8 +7,23 @@ Code isttappettaal Star and Follow 😁😅
 
 ## Project Structure
 
+````markdown
+# Made by Jibin Wilson S7 CSE
+
+> Imported from https://github.com/Jithu-9847/Compiler_Lab.git and rebranded
+
+# Compiler Lab Programs
+
+Compiler Lab inte Kurchu Programs 😃
+Code isttappettaal Star and Follow 😁😅    
+### Ee code inte okke Algorithm Generate cheyyaam ee bot use cheyyaam [Algo Bot](https://aistudio.instagram.com/ai/1262652039317488?utm_source=ai_agent)
+
+
+## Project Structure
+
 ```
 ├── README.md
+├── AUTHORS.md        # Attribution and provenance
 ├── calculator/
 │   ├── calc.l          # Lex file for calculator lexer
 │   └── calc.y          # Yacc file for calculator parse
@@ -84,3 +99,5 @@ gcc fileName.c
 ## Contributing
 
 Feel free to add more examples or improve existing implementations.
+
+````
